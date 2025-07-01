@@ -1,2 +1,4 @@
 # fullstackmj
-i am creating an fullstack
+this is my first fullstack repo
+
+instructor vinay[day2]
